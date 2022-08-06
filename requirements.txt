@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+sklearn
+scrapy
+boto3
+plotly
+dotenv
