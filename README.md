@@ -1,5 +1,9 @@
 # Data Collection and Processing for Travel Recommandations
 
+## Jedha Fullstack Certification
+- email : antoine.costes@live.fr
+- Video link : https://share.vidyard.com/watch/QtiptXeWTm1SKDivRNHuj5?
+
 ## Goal of the project 
 
 **Create recommendations of top places to visit and hotel accomodations in France by :**  
