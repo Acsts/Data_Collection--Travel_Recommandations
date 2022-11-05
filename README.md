@@ -1,8 +1,10 @@
 # Data Collection and Processing for Travel Recommandations
 
-## Jedha Fullstack Certification
-- email : antoine.costes@live.fr
-- Video link : https://share.vidyard.com/watch/QtiptXeWTm1SKDivRNHuj5?
+*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+
+## Video Presentation
+
+**Checkout the 10min project presentation video (in French) here: https://share.vidyard.com/watch/QtiptXeWTm1SKDivRNHuj5?**
 
 ## Goal of the project 
 
